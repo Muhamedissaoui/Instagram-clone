@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Image Search App</string>
+    <string name="bg">bg</string>
+    <string name="android_exam">Android Exam</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="signup_background">signup-background</string>
+    <string name="android_nexam">Android \nExam</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register">Register</string>
+</resources>

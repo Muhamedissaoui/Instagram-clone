@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940952509357",
+    "project_id": "exam-c1736",
+    "storage_bucket": "exam-c1736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940952509357:android:2a7621cc76bdfeaae55f24",
+        "android_client_info": {
+          "package_name": "com.codinginflow.imagesearchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940952509357-8nho6rgpb4rom6qjggulptbse8olbtoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-O8x6xWIfmvooj9lB59BD_8z2uV86Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940952509357-8nho6rgpb4rom6qjggulptbse8olbtoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
